@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 //linking
     val button=findViewById<Button>(R.id.button)
-    button.setOnClickListener {
+    button.setOnClickListener(){
         val skill=Intent(this,selection::class.java)
         startActivity(skill)
     }
