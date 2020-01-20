@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AeroMaintain</string>
+    <string name="mainimage">mainimage</string>
+    <string name="mainlogo">mainlogo</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="message">mesage</string>
+    <string name="selectionlogo">selectionlogo</string>
+    <string name="add_parts">ADD PARTS</string>
+    <string name="records">records</string>
+    <string name="prompt">no</string>
+    <string name="successful">no</string>
+    <string name="wrongIntent">no</string>
+    <string name="failure">no</string>
+</resources>
